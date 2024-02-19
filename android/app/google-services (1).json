@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60912735312",
+    "project_id": "riyadh-tours-d07ed",
+    "storage_bucket": "riyadh-tours-d07ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60912735312:android:fc3b02d7d1278c870d2d55",
+        "android_client_info": {
+          "package_name": "com.example.riytou_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsfLTWJf7Bxv0FziP8QN4TJzao62FHJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
